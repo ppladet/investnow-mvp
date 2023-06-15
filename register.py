@@ -6,6 +6,7 @@ writes new user data to a JSON file.
 
 import json
 
+
 class Register:
     """
     The Register class, responsible for registering new users to the InvestNow application.
